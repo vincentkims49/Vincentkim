@@ -1,48 +1,63 @@
-# Hi there, I'm Vincent 👋 
+<div align="center">
+<img src="https://github.com/gavinmasese/vincentkims49/blob/main/hello%20world.gif" align="center" style="width: 100%" />
+</div>  
+<br>
+<h1 align="center"> This is  Vincent Kimanzi</h1> 
+<br>
 
+[![Gmail Badge](https://img.shields.io/badge/-vincentkims49@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vincentkims49@gmail.com)](mailto:vincentkims49@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-vincentkims49-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vincentkims49/)](https://www.github.com/vincentkims49/)
+<p align=left> <img src=https://komarev.com/ghpvc/?username=vincentkims49 alt=vincentkims49 /> </p>
 
-[![Website](https://img.shields.io/website?label=vincentkim.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.section.io/engineering-education/authors/vincent-kimanzi/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/vincentkim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/VincentKimanzi9)
+<div align="left">
+<p align='left'>
+  Hi there, I'm Vincent 👋
+I'm a Developer, and an Author!!
+🔭 Check out my Profile
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: Learn more about web3
+⚡ Fun fact: I love to play games</p>
+</div> 
 
+![gitartwork](gitartwork.svg)
 
+<!-- ## Some of my Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=vincentkims49&show_icons=true&include_all_commits=true)](https://github.com/vincentkims49/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentkims49&layout=compact)](https://github.com/vincentkims49/github-readme-stats)
+--!>
 
+<details>
+<summary> Click for GitHub Stats  </summary>
+<p align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vincentkims49&theme=jolly&show_icons=true" alt="vincent's Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=vincentkims49&&theme=jolly&show_icons=true" alt="vincentkims49"/>
 
-## I'm a Developer, and an Author!!
+</p>
+</details>
 
-- 🔭 Check out my [Profile](https://www.section.io/engineering-education/authors/vincent-kimanzi/)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to play games 
+<details>
+<summary> See me code  </summary>
+<p align="center">
+<img src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 20 height: 30" />
 
+</p>
+</details>
 
-### Languages and Tools:
+<details>
+<summary> Just for fun </summary>
+<p align="center">
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+<h1> Random meme </h1>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</p>
+</details>
 
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+<div align="center">
+<h3> Connect with me</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/vincentkims" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/vincentkims" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="mailto:vincentkims49@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p>  
 
-
-
-[twitter]: https://twitter.com/VincentKimanzi9
-[instagram]: https://www.instagram.com/calvin_vny
-[linkedin]: https://www.linkedin.com/in/vincent-kimanzi-5ba45b221
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
